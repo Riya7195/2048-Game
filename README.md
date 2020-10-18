@@ -7,6 +7,7 @@ A scoreboard on the upper-right keeps track of the user's score. The user's scor
 A game of 2048 in progress
 
 The game is won when a tile with a value of 2048 appears on the board, hence the name of the game. After reaching the 2048 tile, players can continue to play (beyond the 2048 tile) to reach higher scores. When the player has no legal moves (there are no empty spaces and no adjacent tiles with the same value), the game ends.
-I have made this game using Java.
+ This game uses Java.
+ 
 
 
