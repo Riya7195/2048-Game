@@ -70,7 +70,7 @@ public class Game {
 							if(Mat[i][j]==0)
 							{
 								if(position == 0)
-								{Mat[i][j] = (Math.abs(r.nextInt())%100)>90?4:2;
+								{Mat[i][j] = (Math.abs(r.nextInt())%100)>80?4:2;
 								position--;
 								break;
 								} 
