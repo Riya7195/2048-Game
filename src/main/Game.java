@@ -19,7 +19,7 @@ public class Game {
 		
 		while(true)
 		{
-		// resetting
+		// resetting code
 			Mat = new int[4][4];
 		scoreManager	= new ScoreManager();
 		Random r = new Random();
@@ -85,7 +85,7 @@ public class Game {
 				if(!CheckIfPossible.Possible(Mat))
 				{
 					scoreManager.GameOver(d);
-					System.out.println("Game Over !!");
+					System.out.println("Game Over!!");
 				}
 				
 					
@@ -94,7 +94,7 @@ public class Game {
 				{
 				scoreManager.GameOver(d);
 
-				System.out.println("Game Over !!");
+				System.out.println("Game Over!!");
 				}
 			d.Update(Mat);
 			key = 0;
