@@ -9,5 +9,13 @@ A game of 2048 in progress
 The game is won when a tile with a value of 2048 appears on the board, hence the name of the game. After reaching the 2048 tile, players can continue to play (beyond the 2048 tile) to reach higher scores. When the player has no legal moves (there are no empty spaces and no adjacent tiles with the same value), the game ends.
  This game uses Java.
  
+How to run the application?
+
+- Download the file.
+- Load the zip file in any IDE.
+- Check the path for windows and import the file on IDE.
+- Run the main file.
+- The program is working!!.
+
 
 
