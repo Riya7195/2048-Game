@@ -19,7 +19,7 @@ public class Game {
 		
 		while(true)
 		{
-		// resetting code
+		// reset by pressing r
 			Mat = new int[4][4];
 		scoreManager	= new ScoreManager();
 		Random r = new Random();
