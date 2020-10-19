@@ -19,4 +19,7 @@ The game is won when a tile with a value of 2048 appears on the board, hence the
 - The program is working!!.
 
 
+## How this application looks?
+
+
 
