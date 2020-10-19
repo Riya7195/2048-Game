@@ -21,7 +21,7 @@ The game is won when a tile with a value of 2048 appears on the board, hence the
 
 ## How this application looks?
 
-![](blob/master/Capture.PNG)
+![](Capture.PNG)
 
 
 
