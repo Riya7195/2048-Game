@@ -11,9 +11,9 @@ public class Game {
 	public static volatile int key=0;
 	public static void main(String[] args) {
 		
-		// TODO Auto-generated method stub
+	
 		ScoreManager scoreManager;
-		Display d=new Display();
+		Display d = new Display();
 		Textures.initialize();
 		int Mat[][];
 		
